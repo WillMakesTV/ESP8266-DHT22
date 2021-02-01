@@ -1,5 +1,5 @@
 # Overview
-Connect a DHT22 temperature/humidity sensor to a ESP8266 (NodeMCU) and display the values to a self-hosted webpage.
+Connect a DHT22 temperature/humidity sensor to an ESP8266 (NodeMCU) and display the values to a self-hosted webpage.
 
 ## Part List
 - DHT22 (Temperature / Humidity Sensor)
