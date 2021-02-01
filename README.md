@@ -12,5 +12,7 @@ Connect a DHT22 temperature/humidity sensor to an ESP8266 (NodeMCU) and display 
 1. Open board manager and search for and install [esp8266](https://github.com/esp8266/Arduino).
 1. Select select your compatabible esp8266 board and verify COM port
 1. Using the library manager, search for and install [DHT sensor library by Adafruit](https://github.com/adafruit/DHT-sensor-library) and [PageBuilder by Hieromon Ikasamo](https://github.com/Hieromon/PageBuilder).
-  
+
+## Wiring
+![DHT22 ESP8266 Wiring Diagram](https://i.imgur.com/EkWpx8M.jpg)
  
